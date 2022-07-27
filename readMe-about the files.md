@@ -1,12 +1,12 @@
 In this repo you will find the files used to perform Data Asssimilation on the COVID-19 datasets of the following four countries:
 
-1.USA
+1. USA 🇺🇸
 
-2.Guyana
+2. Guyana 🇬🇾
 
-3.Ethiopia
+3. Ethiopia 🇪🇹
 
-4.Trinidad
+4. Trinidad 🇹🇹
 
 Here is a brief breakdown of what each file does:
 
