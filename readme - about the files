@@ -7,7 +7,7 @@ In this repo you will find the files used to perform Data Asssimilation on the C
 
 Here is a brief breakdown of what each file does:
 
-- Excel sheets:   Saved in '.csv' format contain the time series data for each country
+- Excel sheets:   Saved in '.csv' format, these contain the time series data for each country
 - Read_data.  :   Here is where the model loads the time series files for each country
 - Initialize_SEIR:This is the place to edit parameters such as vaccination and death rates
 - Free_Run:       In these files you can run the SEIR model without data assimilation to check its performance
@@ -17,6 +17,8 @@ Here is a brief breakdown of what each file does:
 - Compare_runs:   Here you can provide unique configurations for differing data sets and perform sensitivity runs
 - SEIR_eqns:      Find the equations used in the operation of the SEIR_model
 
+The time-series covid data used in this project were primarily taken from the following sites:
 
-
+- Our World in Data: https://ourworldindata.org/covid-cases
+- The Human Data Exchange: https://data.humdata.org/event/covid-19
 
